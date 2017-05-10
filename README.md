@@ -1,5 +1,5 @@
 # Resume
-Mon CV en ligne avec KNACSS.
+Mon CV en ligne avec Bootstrap.
 Licence GPL.
 
-*KNACSS est distribué librement sur Github sous licence WTFPL, toutes contributions sont bienvenues.*
+*Bootstrap est distribué librement sur Github sous licence MIT*
