@@ -24,7 +24,10 @@
     font-size: 18px;
     font-weight: bold;
 }
-
+.signature img {
+    margin-right: 20px;
+    width: 100px;
+}
 .signature span {
     font-family: 'Yesteryear', cursive;
     font-size: 35px;
@@ -32,11 +35,9 @@
 .address {
     margin: 20px 0;
 }
-
 .address li {
     margin: 10px 0;
 }
-
 .title p {
     margin: 20px 0;
 }
