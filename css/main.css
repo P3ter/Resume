@@ -13,23 +13,30 @@
 
 * {
     font-family: 'Montserrat', sans-serif;
+    font-size: 1.02em;
 }
 .title h1 {
     margin-bottom: 0;
-    font-size: 40px;
+    font-size: 38px;
     font-weight: bold;
 }
 .title span{
     font-size: 18px;
     font-weight: bold;
 }
-.title p{
-    margin: 20px 0;
-}
+
 .signature span {
     font-family: 'Yesteryear', cursive;
     font-size: 35px;
 }
-.about p {
+.address {
+    margin: 20px 0;
+}
+
+.address li {
+    margin: 10px 0;
+}
+
+.title p {
     margin: 20px 0;
 }
