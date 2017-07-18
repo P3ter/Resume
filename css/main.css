@@ -15,12 +15,21 @@
     font-family: 'Montserrat', sans-serif;
 }
 .title h1 {
-    
+    margin-bottom: 0;
+    font-size: 40px;
+    font-weight: bold;
+}
+.title span{
+    font-size: 18px;
+    font-weight: bold;
 }
 .title p{
-    
+    margin: 20px 0;
 }
-.signature p {
+.signature span {
     font-family: 'Yesteryear', cursive;
-    font-size: 30px;
+    font-size: 35px;
+}
+.about p {
+    margin: 20px 0;
 }
