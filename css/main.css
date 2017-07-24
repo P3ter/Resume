@@ -24,6 +24,9 @@
     font-size: 18px;
     font-weight: bold;
 }
+.title p {
+    margin: 20px 0;
+}
 .signature img {
     margin-right: 20px;
     width: 100px;
@@ -38,6 +41,6 @@
 .address li {
     margin: 10px 0;
 }
-.title p {
-    margin: 20px 0;
+.skills label {
+    margin-bottom: 10px;
 }
