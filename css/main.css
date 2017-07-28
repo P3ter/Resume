@@ -18,6 +18,9 @@
 body {
     background-color: #f5f5f5;
 }
+.section {
+    padding: 0 10% 0 10%
+}
 .title h1 {
     margin-bottom: 0;
     font-size: 38px;
@@ -39,7 +42,8 @@ body {
     font-size: 35px;
 }
 .address {
-    margin: 20px 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .address li {
     margin: 10px 0;
@@ -48,15 +52,15 @@ body {
     margin-bottom: 10px;
 }
 .grey-1 {
-    background-color: #ccc;
+    background-color: #eee;
 }
 .grey-2 {
-    background-color: #bbb;
-}
-.grey-3 {
     background-color: #ddd;
 }
+.grey-3 {
+    background-color: #eee;
+}
 .grey-4 {
-    background-color: #aaa;
+    background-color: #ddd;
 }
 
