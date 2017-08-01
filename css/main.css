@@ -18,37 +18,46 @@
 body {
     background-color: #f5f5f5;
 }
+/*** SIDEBAR ***/
+img.signature {
+    margin-right: 10px;
+    width: 50px;
+}
+span.signature {
+    font-family: 'Yesteryear', cursive;
+    font-size: 25px;
+}
+a span.signature {
+    color: #000;
+}
+/*** MAIN ***/
 .section {
     padding: 0 10% 0 10%
 }
-.title h1 {
+#title h1 {
     margin-bottom: 0;
     font-size: 38px;
     font-weight: bold;
 }
-.title span{
+#title span{
     font-size: 18px;
     font-weight: bold;
 }
-.title p {
+#title p {
     margin: 20px 0;
 }
-.signature img {
-    margin-right: 20px;
-    width: 100px;
+#title span.signature {
+    font-weight: normal;
+    font-size: 2em;
 }
-.signature span {
-    font-family: 'Yesteryear', cursive;
-    font-size: 35px;
-}
-.address {
+#title .address {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-.address li {
+#title .address li {
     margin: 10px 0;
 }
-.skills label {
+#skills label {
     margin-bottom: 10px;
 }
 .grey-1 {
