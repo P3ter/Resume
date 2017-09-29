@@ -34,6 +34,18 @@ a span.signature {
 .section {
     padding: 0 10% 0 10%
 }
+.grey-1 {
+    background-color: #eee;
+}
+.grey-2 {
+    background-color: #ddd;
+}
+.grey-3 {
+    background-color: #eee;
+}
+.grey-4 {
+    background-color: #ddd;
+}
 #title h1 {
     margin-bottom: 0;
     font-size: 38px;
@@ -60,16 +72,7 @@ a span.signature {
 #skills label {
     margin-bottom: 10px;
 }
-.grey-1 {
-    background-color: #eee;
-}
-.grey-2 {
-    background-color: #ddd;
-}
-.grey-3 {
-    background-color: #eee;
-}
-.grey-4 {
-    background-color: #ddd;
+#exprience img.logo {
+    width: 100px;
 }
 
