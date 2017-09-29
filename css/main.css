@@ -30,6 +30,10 @@ span.signature {
 a span.signature {
     color: #000;
 }
+h1, h2 {
+    font-size: 3em;
+    font-weight: bold;
+}
 /*** MAIN ***/
 .section {
     padding: 0 10% 0 10%
