@@ -72,7 +72,19 @@ a span.signature {
 #skills label {
     margin-bottom: 10px;
 }
-#exprience img.logo {
+#exprience hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+}
+#exprience .media {
+    margin: 50px 0px;
+}
+#exprience .media img.logo {
     width: 100px;
 }
-
+#exprience .media-body {
+    padding-left: 20px;
+}
+#exprience .media-body p {
+    padding-top: 20px;
+}
