@@ -38,6 +38,9 @@ h1, h2 {
 .section {
     padding: 0 10% 0 10%
 }
+.address {
+    margin-bottom: 40px;
+}
 .grey-1 {
     background-color: #eee;
 }
@@ -73,8 +76,15 @@ h1, h2 {
 #title .address li {
     margin: 10px 0;
 }
+#skills {
+    margin-bottom: 40px;
+}
 #skills label {
     margin-bottom: 10px;
+}
+#exprience span {
+    font-weight: bold;
+    font-size: 1.2em
 }
 #exprience hr {
     border: 0;
@@ -91,4 +101,7 @@ h1, h2 {
 }
 #exprience .media-body p {
     padding-top: 20px;
+}
+#degree {
+    margin-bottom: 40px;
 }
