@@ -19,15 +19,18 @@ body {
     background-color: #f5f5f5;
 }
 /*** SIDEBAR ***/
-img.signature {
+#sidebar-menu {
+    margin-top: 20px;
+}
+#sidebar-menu img.signature {
     margin-right: 10px;
     width: 50px;
 }
-span.signature {
+#sidebar-menu span.signature {
     font-family: 'Yesteryear', cursive;
     font-size: 25px;
 }
-a span.signature {
+#sidebar-menu a span.signature {
     color: #000;
 }
 h1, h2 {
