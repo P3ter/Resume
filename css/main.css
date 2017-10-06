@@ -26,17 +26,6 @@ h1, h2 {
 .sidebar-section {
     margin: 20px 0px 40px 0px
 }
-#sidebar-signature img.signature {
-    margin-right: 10px;
-    width: 50px;
-}
-#sidebar-signature span.signature {
-    font-family: 'Yesteryear', cursive;
-    font-size: 25px;
-}
-#sidebar-signature a span.signature {
-    color: #000;
-}
 #sidebar-contact p {
     margin: 15px 0px;
 }
