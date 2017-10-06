@@ -88,8 +88,8 @@ h1, h2 {
 #skills {
     margin-bottom: 40px;
 }
-#skills label {
-    margin-bottom: 10px;
+#skills h3 {
+    margin: 40px 20px;
 }
 #exprience span {
     font-weight: bold;
