@@ -23,19 +23,25 @@ h1, h2 {
     font-weight: bold;
 }
 /*** SIDEBAR ***/
-#sidebar-menu {
-    margin-top: 20px;
+.sidebar-section {
+    margin: 20px 0px 40px 0px
 }
-#sidebar-menu img.signature {
+#sidebar-signature img.signature {
     margin-right: 10px;
     width: 50px;
 }
-#sidebar-menu span.signature {
+#sidebar-signature span.signature {
     font-family: 'Yesteryear', cursive;
     font-size: 25px;
 }
-#sidebar-menu a span.signature {
+#sidebar-signature a span.signature {
     color: #000;
+}
+#sidebar-contact p {
+    margin: 15px 0px;
+}
+#sidebar-download p {
+    margin: 20px 0px;
 }
 /*** MAIN ***/
 .section {
