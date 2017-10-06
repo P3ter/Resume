@@ -94,7 +94,7 @@ h1, h2 {
     margin: 50px 0px;
 }
 #exprience .media img.logo {
-    width: 100px;
+    width: 140px;
 }
 #exprience .media-body {
     padding-left: 20px;
@@ -104,4 +104,9 @@ h1, h2 {
 }
 #degree {
     margin-bottom: 40px;
+}
+#degree img {
+    margin-top: 40px;
+    max-width: 50%;
+    height: auto;
 }
