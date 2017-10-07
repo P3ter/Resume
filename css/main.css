@@ -150,3 +150,6 @@ h1, h2 {
 #projects a:hover {
     text-decoration: none;
 }
+#footer {
+    padding: 10px 0px;
+}
