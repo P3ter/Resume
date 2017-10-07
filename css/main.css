@@ -43,16 +43,16 @@ h1, h2 {
     background-color: #bbb;
 }
 .grey-1 {
-    background-color: #eee;
+    background-color: #dedede;
 }
 .grey-2 {
     background-color: #ededed;
 }
 .grey-3 {
-    background-color: #eee;
+    background-color: #e2e2e2;
 }
 .grey-4 {
-    background-color: #ddd;
+    background-color: #eee;
 }
 .banner {
     background-image: url(../img/banner-min.png);
@@ -95,7 +95,10 @@ h1, h2 {
     font-size: 18px;
     font-weight: bold;
 }
-#title span.signature {
+#title .signature {
+    text-align: right;
+}
+#title .signature span {
     font-family: 'Yesteryear';
     font-size: 2.5em;
     font-weight: normal;
@@ -103,9 +106,9 @@ h1, h2 {
 #title p {
     margin: 20px 0;
 }
-#title .address {
-    margin-top: 20px;
+.address {
     margin-bottom: 20px;
+    text-align: right;
 }
 #title .address li {
     margin: 10px 0;
