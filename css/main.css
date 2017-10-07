@@ -111,3 +111,6 @@ h1, h2 {
     max-width: 50%;
     height: auto;
 }
+#projects a:hover {
+    text-decoration: none;
+}
