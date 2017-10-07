@@ -39,11 +39,14 @@ h1, h2 {
 .address {
     margin-bottom: 40px;
 }
+.grey-0 {
+    background-color: #aaa;
+}
 .grey-1 {
     background-color: #eee;
 }
 .grey-2 {
-    background-color: #ddd;
+    background-color: #ededed;
 }
 .grey-3 {
     background-color: #eee;
