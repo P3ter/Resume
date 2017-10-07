@@ -54,6 +54,36 @@ h1, h2 {
 .grey-4 {
     background-color: #ddd;
 }
+.banner {
+    background-image: url(../img/banner-min.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+    max-width: 100%;
+}
+#banner {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+    color: #eee;
+}
+#banner h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 3.5em;
+
+}
+#banner span {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+#banner small {
+    font-weight: bold;
+    font-size: 1.5em;
+}
 #title h1 {
     margin-bottom: 0;
     font-size: 38px;
@@ -65,10 +95,6 @@ h1, h2 {
 }
 #title p {
     margin: 20px 0;
-}
-#title span.signature {
-    font-weight: normal;
-    font-size: 2em;
 }
 #title .address {
     margin-top: 20px;
@@ -110,6 +136,9 @@ h1, h2 {
     margin-top: 40px;
     max-width: 50%;
     height: auto;
+}
+#projects h2 {
+    margin-bottom: 40px;
 }
 #projects a:hover {
     text-decoration: none;
