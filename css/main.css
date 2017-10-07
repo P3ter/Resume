@@ -136,6 +136,10 @@ h1, h2 {
 #exprience .media-body p {
     padding-top: 20px;
 }
+#exprience img {
+    width: 50%;
+    margin: 10px 0px -20px 20px;
+}
 #degree {
     margin-bottom: 40px;
 }
